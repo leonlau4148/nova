@@ -1,4 +1,4 @@
-Tools used to create apex:
+Tools used to create nova:
 
 - Spline for 3d model
 - Claude Design for Generating Website Design
